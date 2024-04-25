@@ -1,0 +1,5 @@
+data/**/*.jpg
+data/**/*.png
+
+enhancedImg/**/*.jpg
+enhancedImg/**/*.png
